@@ -8,4 +8,6 @@ Use `python -m HTTPSimpleServer` or `npm install -g http-server && http-server` 
 
 # Using it in your application
 
+`npm install ng-knob`.
+
 Include `dist/ngKnob.js` in your application as a `<script>` and as well as link the `dist/ngKnob.css` stylesheet. Merge your application with ngKnob (`angular.module('YourApp', ['ngKnob'])`) and use the `<ng-knob>` directive as seen in the example.
