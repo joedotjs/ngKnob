@@ -1,0 +1,12 @@
+{
+  "name": "ng-knob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Joe Alves <databentpx@gmail.com> (http://www.github.com/joedotjs)",
+  "repository":
+  "dependencies": {
+    "angular": "^1.4.2"
+  }
+}
