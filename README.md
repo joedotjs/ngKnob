@@ -16,4 +16,4 @@ Include `dist/ngKnob.js` in your application as a `<script>` and as well as link
 
 # Thanks
 
-1504 for learning well and Thom Yorke for provided the tune.
+1504 for learning well and Thom Yorke for providing the tune.
